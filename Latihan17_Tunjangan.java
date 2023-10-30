@@ -1,4 +1,12 @@
 package tipedata;
+
+/*
+NAMA : Achmad Fatih Muzaqi
+NIM : 22205026
+PRIDI : Teknik Informatika
+DESKRIPSI : program ini Menghitung gaji dan tunjangan
+*/
+
 import java.util.Scanner;
 public class Latihan17_Tunjangan {
     public static void main (String[] args){
